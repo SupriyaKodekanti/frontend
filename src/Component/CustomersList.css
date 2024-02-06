@@ -1,0 +1,14 @@
+.Vendor-table,th,td{
+    border: 1px solid black;
+    
+}
+tr:hover {background-color:gray;}
+.Vendor-table{
+    background-color: white;
+    text-align: center;
+   
+}
+#bgimg{
+    background-size: cover;
+    background-image: url("https://img.freepik.com/free-vector/clean-medical-background_53876-116875.jpg?size=626&ext=jpg&ga=GA1.1.528249459.1700570054&semt=ais");
+}
